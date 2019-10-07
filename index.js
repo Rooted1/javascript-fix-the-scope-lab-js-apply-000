@@ -4,7 +4,7 @@
 
 var animal = 'dog'
 
-prompt()
+prompt("Pls enter your animal: ")
 
 function myAnimal() {
   return animal
