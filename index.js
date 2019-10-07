@@ -2,7 +2,9 @@
 
 
 
-var animal = 'cat'
+var animal = 'dog'
+
+prompt()
 
 function myAnimal() {
   return animal
