@@ -2,9 +2,7 @@
 
 
 
-// var animal = 'dog'
-
-var animal = prompt("Pls enter your animal: ")
+var animal = 'dog'
 
 function myAnimal() {
   return animal
